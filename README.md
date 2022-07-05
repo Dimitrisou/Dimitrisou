@@ -2,7 +2,7 @@
 - I’m interested in a lot of engineering fields
 - I’m currently studying Electrical and Computer Engineering in Aristotle University of Thessaloniki
 - I’m looking to collaborate on anything...really 
-- How to reach me jem2010@windowslive.com
+- How to reach me dsourlantzis@outlook.com
 - Currently busy with AcubeSAT Project by SpaceDot
 
 <!---
