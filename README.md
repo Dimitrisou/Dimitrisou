@@ -4,6 +4,7 @@
 - I’m looking to collaborate on anything...really 
 - How to reach me dsourlantzis@outlook.com
 - Currently busy with AcubeSAT Project by SpaceDot
+- Lead Software Engineer of PeakSAT project by SpaceDot
 
 <!---
 Dimitrisou/Dimitrisou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
